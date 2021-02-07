@@ -1,0 +1,2 @@
+# latext-counter
+LaTeXの文字数をカウントして表示するWebアプリケーション
