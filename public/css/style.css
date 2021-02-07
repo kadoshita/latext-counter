@@ -1,0 +1,18 @@
+html, body {
+    background-color: #333333;
+}
+
+.container-fluid {
+    color: #ffffff;
+    text-align: center;
+    font-size: 72px;
+    height: 100%;
+}
+
+#count-text {
+    font-size: 320px;
+}
+
+#count-work-time {
+    font-size: 160px;
+}
