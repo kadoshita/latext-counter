@@ -5,14 +5,14 @@ html, body {
 .container-fluid {
     color: #ffffff;
     text-align: center;
-    font-size: 72px;
+    font-size: 64px;
     height: 100%;
 }
 
 #count-text {
-    font-size: 320px;
+    font-size: 180px;
 }
 
 #count-work-time {
-    font-size: 160px;
+    font-size: 120px;
 }
