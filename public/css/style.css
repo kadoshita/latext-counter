@@ -10,9 +10,13 @@ html, body {
 }
 
 #count-text {
-    font-size: 180px;
+    font-size: 160px;
 }
 
 #count-work-time {
-    font-size: 120px;
+    font-size: 96px;
+}
+#count-chart{
+    width: 100%;
+    height: 48px;
 }
