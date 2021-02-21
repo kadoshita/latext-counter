@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '../css/style.css';
 
 import Chart from 'chart.js';
-import ChartJSPluginStreaming from 'chartjs-plugin-streaming';
+import 'chartjs-plugin-streaming';
 
 (async () => {
     const countText = document.getElementById('count-text');
