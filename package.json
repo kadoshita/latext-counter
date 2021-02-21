@@ -1,6 +1,6 @@
 {
   "name": "latext-counter",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "LaTeXの文字数をカウントして表示するWebアプリケーション",
   "main": "app.js",
   "scripts": {
