@@ -1,7 +1,7 @@
 # latext-counter
 LaTeXの文字数をカウントして表示するWebアプリケーション
 
-![screnshot.png](screenshot.png)
+![screenshot.png](screenshot.png)
 
 ```
 $ npx latext-counter -h
@@ -13,6 +13,6 @@ This application requires texcount command.
 Options:
   -V, --version      output the version number
   -p, --port [port]  port (default: "3000")
-  -f --file <path>   LaTex file path (default: "./main.tex")
+  -f, --file <path>   LaTex file path (default: "./main.tex")
   -h, --help         output usage information
 ```

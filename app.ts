@@ -13,7 +13,7 @@ commander.name(packageJson.name);
 commander.version(packageJson.version);
 commander.description('A command line tool for counting the number of characters in LaTex files.\nThis application requires texcount command.');
 commander.option('-p, --port [port]', 'port', '3000');
-commander.option('-f --file <path>', 'LaTex file path', './main.tex');
+commander.option('-f, --file <path>', 'LaTex file path', './main.tex');
 const { argv } = process;
 commander.parse(argv);
 
